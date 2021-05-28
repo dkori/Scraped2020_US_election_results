@@ -14,6 +14,6 @@ for state in states:
         temp_df['state'] = state
         temp_df['fips'] = county['fips']
         temp_df['rating'] = county['rating']
-    result_frame.append(temp_df)
+        result_frame.append(temp_df)
 state_county_results = pd.concat(result_frame).reset_index(drop=True)
 state_county_results.to_csv('pres_county_2020.csv', index=False)
