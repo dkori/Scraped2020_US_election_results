@@ -1,0 +1,311 @@
+first,last,party,id,votes,avotes,electoral,winner,incumbent,percent,state,fips,rating
+Donald,Trump,GOP,8639,10195,0,9.0,X,True,0.9045,AL,01133,likely-r
+Joe,Biden,Dem,1036,974,0,,,,0.0864,AL,01133,likely-r
+Jo,Jorgensen,Lib,67957,102,0,,,,0.009,AL,01133,likely-r
+Donald,Trump,GOP,8639,189951,0,,X,True,0.5312,AK,02000,likely-r
+Joe,Biden,Dem,1036,153778,0,,,,0.4301,AK,02000,likely-r
+Jo,Jorgensen,Lib,67957,8897,0,,,,0.0249,AK,02000,likely-r
+Jesse,Ventura,Grn,26932,2673,0,,,,0.0075,AK,02000,likely-r
+Don,Blankenship,CST,66288,1127,0,,,,0.0032,AK,02000,likely-r
+Brock,Pierce,PEC,69341,825,0,,,,0.0023,AK,02000,likely-r
+Roque,De La Fuente,ALP,64542,318,0,,,,0.0009,AK,02000,likely-r
+Donald,Trump,GOP,8639,36534,0,,,True,0.5228,AZ,04027,toss-up
+Joe,Biden,Dem,1036,32210,0,,X,,0.4609,AZ,04027,toss-up
+Jo,Jorgensen,Lib,67957,1137,0,,,,0.0163,AZ,04027,toss-up
+Donald,Trump,GOP,8639,5226,3688,,X,True,0.7753,AR,05149,likely-r
+Joe,Biden,Dem,1036,1284,1004,,,,0.1905,AR,05149,likely-r
+Jo,Jorgensen,Lib,67957,66,48,,,,0.0098,AR,05149,likely-r
+Brock,Pierce,Ind,69341,44,32,,,,0.0065,AR,05149,likely-r
+Kanye,West,Ind,69343,26,21,,,,0.0039,AR,05149,likely-r
+Roque,De La Fuente,Ind,64542,19,13,,,,0.0028,AR,05149,likely-r
+Gloria,La Riva,PSL,7623,17,13,,,,0.0025,AR,05149,likely-r
+Howie,Hawkins,Grn,32916,14,6,,,,0.0021,AR,05149,likely-r
+Phil,Collins,Ind,67945,14,10,,,,0.0021,AR,05149,likely-r
+C.L.,Gammon,Ind,660,13,10,,,,0.0019,AR,05149,likely-r
+Don,Blankenship,CST,66288,8,6,,,,0.0012,AR,05149,likely-r
+Brian,Carroll,ASP,66553,5,4,,,,0.0007,AR,05149,likely-r
+J.R.,Myers,Oth,64469,5,4,,,,0.0007,AR,05149,likely-r
+Donald,Trump,GOP,8639,17676,7960,,,True,0.5934,CA,06115,likely-d
+Joe,Biden,Dem,1036,11230,7157,,X,,0.377,CA,06115,likely-d
+Jo,Jorgensen,Lib,67957,510,199,,,,0.0171,CA,06115,likely-d
+Roque,De La Fuente,AIP,64542,153,69,,,,0.0051,CA,06115,likely-d
+Howie,Hawkins,Grn,32916,124,71,,,,0.0042,CA,06115,likely-d
+Gloria,La Riva,PFP,7623,94,40,,,,0.0032,CA,06115,likely-d
+Donald,Trump,GOP,8639,6991,0,,,True,0.5688,CO,08093,likely-d
+Joe,Biden,Dem,1036,4903,0,,X,,0.3989,CO,08093,likely-d
+Jo,Jorgensen,Lib,67957,238,0,,,,0.0194,CO,08093,likely-d
+Howie,Hawkins,Grn,32916,56,0,,,,0.0046,CO,08093,likely-d
+Kanye,West,Una,69343,30,0,,,,0.0024,CO,08093,likely-d
+Don,Blankenship,AmC,66288,29,0,,,,0.0024,CO,08093,likely-d
+Mark,Charles,Una,69447,12,0,,,,0.001,CO,08093,likely-d
+Bill,Hammons,Uty,59790,11,0,,,,0.0009,CO,08093,likely-d
+Brian,Carroll,ASP,66553,4,0,,,,0.0003,CO,08093,likely-d
+Phil,Collins,Pro,67945,4,0,,,,0.0003,CO,08093,likely-d
+Joe,McHugh,Una,24660,3,0,,,,0.0002,CO,08093,likely-d
+Kyle,Kopitke,IAP,14237,2,0,,,,0.0002,CO,08093,likely-d
+Brock,Pierce,Una,69341,2,0,,,,0.0002,CO,08093,likely-d
+Jordan,Scott,Una,69449,2,0,,,,0.0002,CO,08093,likely-d
+Gloria,La Riva,PSL,7623,1,0,,,,0.0001,CO,08093,likely-d
+Joseph,Kishore,SEP,69442,1,0,,,,0.0001,CO,08093,likely-d
+Princess,Jacob-Fambro,Una,69448,1,0,,,,0.0001,CO,08093,likely-d
+Roque,De La Fuente,ALP,64542,0,0,,,,0.0,CO,08093,likely-d
+Blake,Huber,AVP,69443,0,0,,,,0.0,CO,08093,likely-d
+Dario,Hunter,Prg,67959,0,0,,,,0.0,CO,08093,likely-d
+Alyson,Kennedy,SWP,65352,0,0,,,,0.0,CO,08093,likely-d
+Joe,Biden,Dem,1036,56848,0,,X,,0.5733,CT,09007,likely-d
+Donald,Trump,GOP,8639,40665,0,,,True,0.4101,CT,09007,likely-d
+Jo,Jorgensen,Lib,67957,1210,0,,,,0.0122,CT,09007,likely-d
+Howie,Hawkins,Grn,32916,444,0,,,,0.0045,CT,09007,likely-d
+Joe,Biden,Dem,1036,317323,0,,X,,0.93,DC,11001,likely-d
+Donald,Trump,GOP,8639,18586,0,,,True,0.0545,DC,11001,likely-d
+Jo,Jorgensen,Lib,67957,2036,0,,,,0.006,DC,11001,likely-d
+Howie,Hawkins,DCG,32916,1726,0,,,,0.0051,DC,11001,likely-d
+Gloria,La Riva,Ind,7623,855,0,,,,0.0025,DC,11001,likely-d
+Brock,Pierce,Ind,69341,693,0,,,,0.002,DC,11001,likely-d
+Donald,Trump,GOP,8639,71230,12555,,,True,0.5507,DE,10005,likely-d
+Joe,Biden,Dem,1036,56682,30757,,X,,0.4382,DE,10005,likely-d
+Jo,Jorgensen,Lib,67957,1003,270,,,,0.0078,DE,10005,likely-d
+Howie,Hawkins,Grn,32916,437,155,,,,0.0034,DE,10005,likely-d
+Donald,Trump,GOP,8639,9876,0,29.0,X,True,0.8012,FL,12133,toss-up
+Joe,Biden,Dem,1036,2347,0,,,,0.1904,FL,12133,toss-up
+Jo,Jorgensen,Lib,67957,69,0,,,,0.0056,FL,12133,toss-up
+Howie,Hawkins,Grn,32916,15,0,,,,0.0012,FL,12133,toss-up
+Gloria,La Riva,PSL,7623,10,0,,,,0.0008,FL,12133,toss-up
+Don,Blankenship,CST,66288,5,0,,,,0.0004,FL,12133,toss-up
+Roque,De La Fuente,RP,64542,5,0,,,,0.0004,FL,12133,toss-up
+Donald,Trump,GOP,8639,6830,4051,,,True,0.7356,GA,13321,toss-up
+Joe,Biden,Dem,1036,2395,1814,16.0,X,,0.2579,GA,13321,toss-up
+Jo,Jorgensen,Lib,67957,60,38,,,,0.0065,GA,13321,toss-up
+Joe,Biden,Dem,1036,47305,0,4.0,X,,0.6659,HI,15009,likely-d
+Donald,Trump,GOP,8639,22126,0,,,True,0.3114,HI,15009,likely-d
+Jo,Jorgensen,Lib,67957,772,0,,,,0.0109,HI,15009,likely-d
+Howie,Hawkins,Grn,32916,585,0,,,,0.0082,HI,15009,likely-d
+Brock,Pierce,SHP,69341,145,0,,,,0.002,HI,15009,likely-d
+Don,Blankenship,CST,66288,111,0,,,,0.0016,HI,15009,likely-d
+Donald,Trump,GOP,8639,4154,0,4.0,X,True,0.7773,ID,16087,likely-r
+Joe,Biden,Dem,1036,1073,0,,,,0.2008,ID,16087,likely-r
+Jo,Jorgensen,Lib,67957,57,0,,,,0.0107,ID,16087,likely-r
+Brock,Pierce,Ind,69341,25,0,,,,0.0047,ID,16087,likely-r
+Kanye,West,Ind,69343,16,0,,,,0.003,ID,16087,likely-r
+Don,Blankenship,CST,66288,13,0,,,,0.0024,ID,16087,likely-r
+Roque,De La Fuente,Ind,64542,6,0,,,,0.0011,ID,16087,likely-r
+Donald,Trump,GOP,8639,14799,0,,,True,0.6905,IL,17203,likely-d
+Joe,Biden,Dem,1036,6160,0,20.0,X,,0.2874,IL,17203,likely-d
+Jo,Jorgensen,Lib,67957,314,0,,,,0.0147,IL,17203,likely-d
+Howie,Hawkins,Grn,32916,103,0,,,,0.0048,IL,17203,likely-d
+Brian,Carroll,ASP,66553,39,0,,,,0.0018,IL,17203,likely-d
+Gloria,La Riva,PSL,7623,17,0,,,,0.0008,IL,17203,likely-d
+Donald,Trump,GOP,8639,12862,0,11.0,X,True,0.7329,IN,18183,likely-r
+Joe,Biden,Dem,1036,4234,0,,,,0.2413,IN,18183,likely-r
+Jo,Jorgensen,Lib,67957,453,0,,,,0.0258,IN,18183,likely-r
+Donald,Trump,GOP,8639,4136,1902,6.0,X,True,0.6626,IA,19197,lean-r
+Joe,Biden,Dem,1036,1996,1390,,,,0.3198,IA,19197,lean-r
+Jo,Jorgensen,Lib,67957,70,27,,,,0.0112,IA,19197,lean-r
+Kanye,West,NPD,69343,19,6,,,,0.003,IA,19197,lean-r
+Howie,Hawkins,Grn,32916,6,1,,,,0.001,IA,19197,lean-r
+Roque,De La Fuente,ALP,64542,5,3,,,,0.0008,IA,19197,lean-r
+Brock,Pierce,NPD,69341,5,0,,,,0.0008,IA,19197,lean-r
+Ricki,King,Oth,69444,3,3,,,,0.0005,IA,19197,lean-r
+Don,Blankenship,CST,66288,2,2,,,,0.0003,IA,19197,lean-r
+Joe,Biden,Dem,1036,36788,26284,,,,0.6478,KS,20209,likely-r
+Donald,Trump,GOP,8639,18934,9783,6.0,X,True,0.3334,KS,20209,likely-r
+Jo,Jorgensen,Lib,67957,1063,560,,,,0.0187,KS,20209,likely-r
+Donald,Trump,GOP,8639,8362,0,8.0,X,True,0.5497,KY,21239,likely-r
+Joe,Biden,Dem,1036,6530,0,,,,0.4293,KY,21239,likely-r
+Jo,Jorgensen,Lib,67957,237,0,,,,0.0156,KY,21239,likely-r
+Kanye,West,Ind,69343,50,0,,,,0.0033,KY,21239,likely-r
+Brock,Pierce,Ind,69341,32,0,,,,0.0021,KY,21239,likely-r
+Donald,Trump,GOP,8639,4619,1987,8.0,X,True,0.742,LA,22127,likely-r
+Joe,Biden,Dem,1036,1543,780,,,,0.2479,LA,22127,likely-r
+Jo,Jorgensen,Lib,67957,36,9,,,,0.0058,LA,22127,likely-r
+Don,Blankenship,CST,66288,5,3,,,,0.0008,LA,22127,likely-r
+Jade,Simmons,Oth,69342,4,2,,,,0.0006,LA,22127,likely-r
+Kanye,West,Oth,69343,4,1,,,,0.0006,LA,22127,likely-r
+Gloria,La Riva,PSL,7623,4,4,,,,0.0006,LA,22127,likely-r
+Brian,Carroll,ASP,66553,3,3,,,,0.0005,LA,22127,likely-r
+Brock,Pierce,Oth,69341,3,1,,,,0.0005,LA,22127,likely-r
+President,Boddie,Oth,67940,2,0,,,,0.0003,LA,22127,likely-r
+Bill,Hammons,Uty,59790,2,1,,,,0.0003,LA,22127,likely-r
+Tom,Hoefling,Oth,62535,0,0,,,,0.0,LA,22127,likely-r
+Alyson,Kennedy,SWP,65352,0,0,,,,0.0,LA,22127,likely-r
+Donald,Trump,GOP,8639,29268,0,,,True,0.4986,ME,23001,likely-d
+Joe,Biden,Dem,1036,27617,0,,X,,0.4705,ME,23001,likely-d
+Jo,Jorgensen,Lib,67957,1105,0,,,,0.0188,ME,23001,likely-d
+Howie,Hawkins,Grn,32916,603,0,,,,0.0103,ME,23001,likely-d
+Roque,De La Fuente,ALP,64542,108,0,,,,0.0018,ME,23001,likely-d
+Donald,Trump,GOP,8639,18571,0,,,True,0.5883,MD,24047,likely-d
+Joe,Biden,Dem,1036,12560,0,,X,,0.3979,MD,24047,likely-d
+Jo,Jorgensen,Lib,67957,336,0,,,,0.0106,MD,24047,likely-d
+Howie,Hawkins,Grn,32916,80,0,,,,0.0025,MD,24047,likely-d
+Jerome,Segal,BdR,66954,20,0,,,,0.0006,MD,24047,likely-d
+Joe,Biden,Dem,1036,5241,0,,X,,0.7202,MA,25019,likely-d
+Donald,Trump,GOP,8639,1914,0,,,True,0.263,MA,25019,likely-d
+Jo,Jorgensen,Lib,67957,81,0,,,,0.0111,MA,25019,likely-d
+Howie,Hawkins,Grn,32916,41,0,,,,0.0056,MA,25019,likely-d
+Donald,Trump,GOP,8639,12102,0,,,True,0.6626,MI,26165,lean-d
+Joe,Biden,Dem,1036,5838,0,,X,,0.3196,MI,26165,lean-d
+Jo,Jorgensen,Lib,67957,259,0,,,,0.0142,MI,26165,lean-d
+Howie,Hawkins,Grn,32916,42,0,,,,0.0023,MI,26165,lean-d
+Don,Blankenship,UST,66288,20,0,,,,0.0011,MI,26165,lean-d
+Roque,De La Fuente,NLP,64542,4,0,,,,0.0002,MI,26165,lean-d
+Donald,Trump,GOP,8639,3734,0,,,True,0.6773,MN,27173,lean-d
+Joe,Biden,Dem,1036,1688,0,,X,,0.3062,MN,27173,lean-d
+Jo,Jorgensen,Lib,67957,45,0,,,,0.0082,MN,27173,lean-d
+Kanye,West,Ind,69343,13,0,,,,0.0024,MN,27173,lean-d
+Roque,De La Fuente,ALP,64542,12,0,,,,0.0022,MN,27173,lean-d
+Howie,Hawkins,Grn,32916,11,0,,,,0.002,MN,27173,lean-d
+Brock,Pierce,Ind,69341,10,0,,,,0.0018,MN,27173,lean-d
+Gloria,La Riva,PSL,7623,0,0,,,,0.0,MN,27173,lean-d
+Alyson,Kennedy,SWP,65352,0,0,,,,0.0,MN,27173,lean-d
+Joe,Biden,Dem,1036,5496,0,,,,0.5266,MS,28163,likely-r
+Donald,Trump,GOP,8639,4832,0,,X,True,0.463,MS,28163,likely-r
+Kanye,West,Ind,69343,33,0,,,,0.0032,MS,28163,likely-r
+Jo,Jorgensen,Lib,67957,21,0,,,,0.002,MS,28163,likely-r
+Don,Blankenship,AmC,66288,14,0,,,,0.0013,MS,28163,likely-r
+Brian,Carroll,ASP,66553,11,0,,,,0.0011,MS,28163,likely-r
+Brock,Pierce,Ind,69341,11,0,,,,0.0011,MS,28163,likely-r
+Phil,Collins,Ind,67945,10,0,,,,0.001,MS,28163,likely-r
+Howie,Hawkins,Grn,32916,8,0,,,,0.0008,MS,28163,likely-r
+Donald,Trump,GOP,8639,3932,0,,X,True,0.7905,MO,29185,likely-r
+Joe,Biden,Dem,1036,988,0,,,,0.1986,MO,29185,likely-r
+Jo,Jorgensen,Lib,67957,43,0,,,,0.0086,MO,29185,likely-r
+Howie,Hawkins,Grn,32916,7,0,,,,0.0014,MO,29185,likely-r
+Don,Blankenship,CST,66288,4,0,,,,0.0008,MO,29185,likely-r
+Donald,Trump,GOP,8639,50772,0,,X,True,0.6057,MT,30111,lean-r
+Joe,Biden,Dem,1036,30679,0,,,,0.366,MT,30111,lean-r
+Jo,Jorgensen,Lib,67957,2370,0,,,,0.0283,MT,30111,lean-r
+Donald,Trump,GOP,8639,5337,0,,X,True,0.7472,NE,31185,likely-r
+Joe,Biden,Dem,1036,1630,0,,,,0.2282,NE,31185,likely-r
+Jo,Jorgensen,Lib,67957,176,0,,,,0.0246,NE,31185,likely-r
+Joe,Biden,Dem,1036,521852,0,,X,,0.5366,NV,32003,lean-d
+Donald,Trump,GOP,8639,430930,0,,,True,0.4431,NV,32003,lean-d
+,None of these candidates,NPD,100013,9023,0,,,,0.0093,NV,32003,lean-d
+Jo,Jorgensen,Lib,67957,8761,0,,,,0.009,NV,32003,lean-d
+Don,Blankenship,IAP,66288,1944,0,,,,0.002,NV,32003,lean-d
+Donald,Trump,GOP,8639,8617,0,,,True,0.5218,NH,33007,likely-d
+Joe,Biden,Dem,1036,7640,0,,X,,0.4626,NH,33007,likely-d
+Jo,Jorgensen,Lib,67957,258,0,,,,0.0156,NH,33007,likely-d
+Donald,Trump,GOP,8639,34769,18232,,,True,0.572,NJ,34041,likely-d
+Joe,Biden,Dem,1036,24901,16038,,X,,0.4096,NJ,34041,likely-d
+Jo,Jorgensen,Lib,67957,655,290,,,,0.0108,NJ,34041,likely-d
+Howie,Hawkins,Grn,32916,263,126,,,,0.0043,NJ,34041,likely-d
+Bill,Hammons,Uty,59790,91,48,,,,0.0015,NJ,34041,likely-d
+Gloria,La Riva,PSL,7623,41,12,,,,0.0007,NJ,34041,likely-d
+Don,Blankenship,CST,66288,40,19,,,,0.0007,NJ,34041,likely-d
+Roque,De La Fuente,ALP,64542,27,10,,,,0.0004,NJ,34041,likely-d
+Donald,Trump,GOP,8639,17364,0,,,True,0.538,NM,35061,likely-d
+Joe,Biden,Dem,1036,14263,0,,X,,0.4419,NM,35061,likely-d
+Jo,Jorgensen,Lib,67957,406,0,,,,0.0126,NM,35061,likely-d
+Howie,Hawkins,Grn,32916,135,0,,,,0.0042,NM,35061,likely-d
+Sheila,Tittle,CST,62537,64,0,,,,0.002,NM,35061,likely-d
+Gloria,La Riva,PSL,7623,45,0,,,,0.0014,NM,35061,likely-d
+Donald,Trump,GOP,8639,6208,0,,,True,0.5807,NY,36123,likely-d
+Joe,Biden,Dem,1036,4219,0,,X,,0.3946,NY,36123,likely-d
+Jo,Jorgensen,Lib,67957,165,0,,,,0.0154,NY,36123,likely-d
+Brock,Pierce,Inp,69341,59,0,,,,0.0055,NY,36123,likely-d
+Howie,Hawkins,Grn,32916,40,0,,,,0.0037,NY,36123,likely-d
+Donald,Trump,GOP,8639,7516,5767,,X,True,0.6633,NC,37199,toss-up
+Joe,Biden,Dem,1036,3688,3273,,,,0.3255,NC,37199,toss-up
+Jo,Jorgensen,Lib,67957,82,54,,,,0.0072,NC,37199,toss-up
+Howie,Hawkins,Grn,32916,27,18,,,,0.0024,NC,37199,toss-up
+Don,Blankenship,CST,66288,18,14,,,,0.0016,NC,37199,toss-up
+Donald,Trump,GOP,8639,11739,0,,X,True,0.8226,ND,38105,likely-r
+Joe,Biden,Dem,1036,2169,0,,,,0.152,ND,38105,likely-r
+Jo,Jorgensen,Lib,67957,362,0,,,,0.0254,ND,38105,likely-r
+Donald,Trump,GOP,8639,8462,0,,X,True,0.7431,OH,39175,toss-up
+Joe,Biden,Dem,1036,2733,0,,,,0.24,OH,39175,toss-up
+Jo,Jorgensen,Lib,67957,155,0,,,,0.0136,OH,39175,toss-up
+Howie,Hawkins,Ind,32916,38,0,,,,0.0033,OH,39175,toss-up
+Donald,Trump,GOP,8639,6611,2162,,X,True,0.8492,OK,40153,likely-r
+Joe,Biden,Dem,1036,1005,516,,,,0.1291,OK,40153,likely-r
+Jo,Jorgensen,Lib,67957,125,34,,,,0.0161,OK,40153,likely-r
+Jade,Simmons,Ind,69342,16,7,,,,0.0021,OK,40153,likely-r
+Kanye,West,Ind,69343,16,4,,,,0.0021,OK,40153,likely-r
+Brock,Pierce,Ind,69341,12,5,,,,0.0015,OK,40153,likely-r
+Donald,Trump,GOP,8639,29551,0,,,True,0.5047,OR,41071,likely-d
+Joe,Biden,Dem,1036,27174,0,,X,,0.4641,OR,41071,likely-d
+Jo,Jorgensen,Lib,67957,1448,0,,,,0.0247,OR,41071,likely-d
+Howie,Hawkins,PAG,32916,254,0,,,,0.0043,OR,41071,likely-d
+Dario,Hunter,Prg,67959,119,0,,,,0.002,OR,41071,likely-d
+Donald,Trump,GOP,8639,146733,0,,,True,0.6153,PA,42133,lean-d
+Joe,Biden,Dem,1036,88114,0,,X,,0.3695,PA,42133,lean-d
+Jo,Jorgensen,Lib,67957,3624,0,,,,0.0152,PA,42133,lean-d
+Joe,Biden,Dem,1036,29486,0,,X,,0.6424,RI,44005,likely-d
+Donald,Trump,GOP,8639,15722,0,,,True,0.3425,RI,44005,likely-d
+Jo,Jorgensen,Lib,67957,504,0,,,,0.011,RI,44005,likely-d
+Roque,De La Fuente,ALP,64542,71,0,,,,0.0015,RI,44005,likely-d
+Brian,Carroll,ASP,66553,61,0,,,,0.0013,RI,44005,likely-d
+Gloria,La Riva,PSL,7623,57,0,,,,0.0012,RI,44005,likely-d
+Donald,Trump,GOP,8639,57397,8375,,X,True,0.5495,SC,45015,likely-r
+Joe,Biden,Dem,1036,45223,11629,,,,0.4329,SC,45015,likely-r
+Jo,Jorgensen,Lib,67957,1485,222,,,,0.0142,SC,45015,likely-r
+Howie,Hawkins,Grn,32916,276,51,,,,0.0026,SC,45015,likely-r
+Roque,De La Fuente,ALP,64542,77,23,,,,0.0007,SC,45015,likely-r
+Joe,Biden,Dem,1036,481,0,,,,0.5309,SD,46137,likely-r
+Donald,Trump,GOP,8639,404,0,,X,True,0.4459,SD,46137,likely-r
+Jo,Jorgensen,Lib,67957,21,0,,,,0.0232,SD,46137,likely-r
+Joe,Biden,Dem,1036,246105,0,,,,0.6445,TN,47157,likely-r
+Donald,Trump,GOP,8639,129815,0,,X,True,0.3399,TN,47157,likely-r
+Jo,Jorgensen,Lib,67957,2426,0,,,,0.0064,TN,47157,likely-r
+Kanye,West,Ind,69343,1601,0,,,,0.0042,TN,47157,likely-r
+Don,Blankenship,Ind,66288,670,0,,,,0.0018,TN,47157,likely-r
+Howie,Hawkins,Ind,32916,577,0,,,,0.0015,TN,47157,likely-r
+Alyson,Kennedy,Ind,65352,241,0,,,,0.0006,TN,47157,likely-r
+Gloria,La Riva,Ind,7623,229,0,,,,0.0006,TN,47157,likely-r
+Roque,De La Fuente,Ind,64542,219,0,,,,0.0006,TN,47157,likely-r
+Donald,Trump,GOP,8639,4131,0,,X,True,0.7713,TX,48353,toss-up
+Joe,Biden,Dem,1036,1162,0,,,,0.217,TX,48353,toss-up
+Jo,Jorgensen,Lib,67957,53,0,,,,0.0099,TX,48353,toss-up
+Howie,Hawkins,Grn,32916,10,0,,,,0.0019,TX,48353,toss-up
+Donald,Trump,GOP,8639,65949,0,,X,True,0.592,UT,49057,likely-r
+Joe,Biden,Dem,1036,40695,0,,,,0.3653,UT,49057,likely-r
+Jo,Jorgensen,Lib,67957,2849,0,,,,0.0256,UT,49057,likely-r
+Kanye,West,Una,69343,524,0,,,,0.0047,UT,49057,likely-r
+Howie,Hawkins,Grn,32916,482,0,,,,0.0043,UT,49057,likely-r
+Don,Blankenship,CST,66288,415,0,,,,0.0037,UT,49057,likely-r
+Brock,Pierce,Una,69341,250,0,,,,0.0022,UT,49057,likely-r
+Joe,McHugh,Una,24660,184,0,,,,0.0017,UT,49057,likely-r
+Gloria,La Riva,Una,7623,55,0,,,,0.0005,UT,49057,likely-r
+Joe,Biden,Dem,1036,10304,0,,X,,0.6051,VT,50017,likely-d
+Donald,Trump,GOP,8639,6187,0,,,True,0.3633,VT,50017,likely-d
+Jo,Jorgensen,Lib,67957,162,0,,,,0.0095,VT,50017,likely-d
+Kanye,West,Ind,69343,78,0,,,,0.0046,VT,50017,likely-d
+H. Brooke,Paige,Ind,62482,73,0,,,,0.0043,VT,50017,likely-d
+Howie,Hawkins,Grn,32916,57,0,,,,0.0033,VT,50017,likely-d
+Christopher,LaFontaine,Ind,69460,49,0,,,,0.0029,VT,50017,likely-d
+Alyson,Kennedy,SWP,65352,17,0,,,,0.001,VT,50017,likely-d
+Richard,Duncan,Ind,56224,16,0,,,,0.0009,VT,50017,likely-d
+Phil,Collins,Pro,67945,16,0,,,,0.0009,VT,50017,likely-d
+Brian,Carroll,ASP,66553,13,0,,,,0.0008,VT,50017,likely-d
+Gloria,La Riva,LUn,7623,11,0,,,,0.0006,VT,50017,likely-d
+Don,Blankenship,CST,66288,9,0,,,,0.0005,VT,50017,likely-d
+Jerome,Segal,BdR,66954,8,0,,,,0.0005,VT,50017,likely-d
+Keith,McCormic,Oth,69461,8,0,,,,0.0005,VT,50017,likely-d
+Gary,Swing,Oth,744,7,0,,,,0.0004,VT,50017,likely-d
+Brock,Pierce,Una,69341,6,0,,,,0.0004,VT,50017,likely-d
+Zachary,Scalf,Ind,69462,3,0,,,,0.0002,VT,50017,likely-d
+Roque,De La Fuente,ALP,64542,2,0,,,,0.0001,VT,50017,likely-d
+Blake,Huber,AVP,69443,2,0,,,,0.0001,VT,50017,likely-d
+Kyle,Kopitke,Ind,14237,0,0,,,,0.0,VT,50017,likely-d
+Joe,Biden,Dem,1036,18048,11985,,X,,0.5013,VA,51680,likely-d
+Donald,Trump,GOP,8639,17097,5746,,,True,0.4749,VA,51680,likely-d
+Jo,Jorgensen,Lib,67957,857,281,,,,0.0238,VA,51680,likely-d
+Donald,Trump,GOP,8639,50555,0,,,True,0.5282,WA,53077,likely-d
+Joe,Biden,Dem,1036,43179,0,,X,,0.4511,WA,53077,likely-d
+Jo,Jorgensen,Lib,67957,1425,0,,,,0.0149,WA,53077,likely-d
+Howie,Hawkins,Grn,32916,321,0,,,,0.0034,WA,53077,likely-d
+Gloria,La Riva,PSL,7623,154,0,,,,0.0016,WA,53077,likely-d
+Alyson,Kennedy,SWP,65352,79,0,,,,0.0008,WA,53077,likely-d
+Donald,Trump,GOP,8639,7353,0,,X,True,0.8558,WV,54109,likely-r
+Joe,Biden,Dem,1036,1157,0,,,,0.1347,WV,54109,likely-r
+Jo,Jorgensen,Lib,67957,66,0,,,,0.0077,WV,54109,likely-r
+Howie,Hawkins,Mnt,32916,16,0,,,,0.0019,WV,54109,likely-r
+Donald,Trump,GOP,8639,10017,0,,,True,0.6072,WI,55069,toss-up
+Joe,Biden,Dem,1036,6261,0,,X,,0.3795,WI,55069,toss-up
+Jo,Jorgensen,Lib,67957,175,0,,,,0.0106,WI,55069,toss-up
+Don,Blankenship,CST,66288,31,0,,,,0.0019,WI,55069,toss-up
+Brian,Carroll,ASP,66553,13,0,,,,0.0008,WI,55069,toss-up
+Donald,Trump,GOP,8639,3107,0,,X,True,0.8794,WY,56045,likely-r
+Joe,Biden,Dem,1036,360,0,,,,0.1019,WY,56045,likely-r
+Jo,Jorgensen,Lib,67957,46,0,,,,0.013,WY,56045,likely-r
+Brock,Pierce,Ind,69341,20,0,,,,0.0057,WY,56045,likely-r
